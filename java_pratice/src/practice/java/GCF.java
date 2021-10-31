@@ -1,4 +1,4 @@
-package pratice.java;
+package practice.java;
 
 public class GCF {
 
